@@ -5,6 +5,8 @@
 3. Login with Google and Social Media Sites
 4. In a case where more than  1 images have to be uploaded then that thing also have to come in picture also
 5. Filtering Blog with Date , Tag and Categories , Author etc.
+6. API Integration
+7. Authorization like Email Verification etc 
 
 
 # Getting Started with Create React App
