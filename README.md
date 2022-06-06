@@ -1,3 +1,12 @@
+
+# Things to do in Blogging App
+1. Integrating it with  Backend NodeJs and MongoDB
+2. Validation whenever required
+3. Login with Google and Social Media Sites
+4. In a case where more than  1 images have to be uploaded then that thing also have to come in picture also
+5. Filtering Blog with Date , Tag and Categories , Author etc.
+
+
 # Getting Started with Create React App
 
 
